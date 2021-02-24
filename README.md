@@ -119,5 +119,18 @@ Like this there is also a swipe feature in it where if you swipe left you can ab
 <p>
  Navigational Diagram of google map
  </p>
+ 
+ ## 0502
+ <p>
+ Chosen App= Instagram
+ Gestures:
+ 1)by scrolling we can see new feeds.
+ 2)by swiping left we can chat.
+ 3)by swiping right we can use camera
+ 4)by using long press on search icon can lead directly to the seach bar with keyboard.
+ 5)by using long press on profile will show the option of another account to swap in.
+
+Touch events are action up, action down, action cancel and action move.
+</p>
 
 
