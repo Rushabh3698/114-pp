@@ -71,18 +71,26 @@ Like this there is also a swipe feature in it where if you swipe left you can ab
 
 ## 0401
 <p>
+ ![ googlemap ](googlemap.jpeg)
+ Chosen App: google maps
+ Despite of having Iphone I use google maps whenever I have to go at unknown places.
+ I have go through this app so much deeply that's why I'm familiar with it. All activities can run by just opening navigation menu. The app displays the user's progress along the route and issues instructions for each turn. Infact there is no hierarchy used in navigation because it is freely handled through this menu.
+<p>
+
+## 0402
+<p>
  Chosen App: Cricbuzz.
  
- There are five section in the homepage which are home, matches, videos, news and more 
+ There are things which we can do in cricbuzz after opening it
  
- -Home page
+ -what we can see in Home page
  1)Cricket matches
  2)news realted cricket
  3)dark theme option
  4)recent achievements by the players
  5)top stories
  
- -Matches
+ -What we can see after clicking on matches icon
  1) Live matches
  2) upcoming matches
  3) recent matches 
@@ -91,13 +99,13 @@ Like this there is also a swipe feature in it where if you swipe left you can ab
  6) international cricket
  7) notification bell for specific match
 
-- videos
+- after clicking on videos
 1) press conference
 2) news roundups
 3) cricbuzz chatters
+4) news of crickets.
 
-- news
-- More
+- Here you can browse and compare everything related to cricket
 1) browse series
 2) browse team 
 3) browse player
