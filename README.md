@@ -68,3 +68,42 @@ This application is quite complex but if you get to know how to use it then mind
 <p> While going through the book there was pretty much information about clicking and touching. In discord there is a lot of content to observe and use. I mean its a chatting app but according to me there a lot more into it. The interface of this app is bit complex but very useful if you get it.
 The clicking buttons on the screen can performs many activities like you can add your friends, you can mention them in any gaming event or streaming thing, you can search anything like servers,friends,chats,memes,announcement and more by just just clicking on search.
 Like this there is also a swipe feature in it where if you swipe left you can able to see your joined servers. There are different types of servers like gaming, college study or sportsclub which show specific notification while swiping left. If you swife right it will show your friends who are online so you can communicate with them by video call or just call. </p>
+
+## 0401
+<p>
+ Chosen App: Cricbuzz.
+ 
+ There are five section in the homepage which are home, matches, videos, news and more 
+ 
+ -Home page
+ 1)Cricket matches
+ 2)news realted cricket
+ 3)dark theme option
+ 4)recent achievements by the players
+ 5)top stories
+ 
+ -Matches
+ 1) Live matches
+ 2) upcoming matches
+ 3) recent matches 
+ 4) scores of live matches 
+ 5) domestic cricket
+ 6) international cricket
+ 7) notification bell for specific match
+
+- videos
+1) press conference
+2) news roundups
+3) cricbuzz chatters
+
+- news
+- More
+1) browse series
+2) browse team 
+3) browse player
+4) schedule
+5) archieves
+6) games
+</p>
+
+
