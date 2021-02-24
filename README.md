@@ -12,6 +12,51 @@
 
 <p> Well, usability is a measure of how well a specific user in a specific context can use a product or design to achieve a defined goal effectively, efficiently and satisfactorily.And intuitive design is used informally to describe designs that are easy to use. So, when a user is able to understand and use a design immediately—that is, without consciously thinking about how to do it—we describe the design as “intuitive”. There are some elements for usability are checkboxes, icons, notifications and more like this intuitive elements are feedback, efficiency, forgiveness and many more. </p>
 
+## 0201
+![youtube](youtube.jpeg)
+<p>
+ Chosen App:- Facebook
+  It allows-
+  -Microphone (when required)
+  -Camera
+  -Photos
+  -Location while using application
+  
+  Features of Facebook-
+  - Group chats
+  - Events
+  - GPS
+  - Location 
+  - Newsfeeds
+  - Explore friends
+  - Secure managed users
+  - Memories
+  - Donations
+  - Facebook Gaming and many more.
+ </p>
+ 
+ ## 0202
+ <p>
+  Here I'm gonna talk about youtube because I'm using it since 2012. I always like the algorithm of youtube because it shows what I need.
+  The home page of the youtube shows the several things like search bar at the top right, notification bar just left to it and at the bottom side there are five distributted sections named home, explore, plus, subscritions and library.
+  Model-
+  -History of your videos
+  -Notification messages
+  -Bottom navigation bar contains home, explore, plus, subscritions and library.
+  -Videos contains number of views and tumbnail
+  -Some sponsor ads
+ View-
+  -Search bar contains what I have searched before
+  -Shorts icon shows the small videos like tiktok.
+  -With the videos it shows the channel name and time span after the video got uploaded.
+ Controller-
+  -After clicking on video it shows like-dislike button and comment section.
+  -We can also save the video by clicking on it which is just right of like-dislike button.
+  -Trending videos of your region can seen by just clicking on explore button.
+  -Subscriptions list is also available where you can watch of your choice by tapping on 4th button at the navi bar.
+  </p>
+  
+
 ## 0301
 <p> I always like to explore new applications in my phone but here I would like to talk about one of my favorite application which is discord. I use this app to share images, GIFs, videos, and files and the most favorite thing about discord is that it is best for the communication in games and also for streaming.
 Whenever you open the app at the bottom there are five things you can see like server feeds, friends list, search option, mention bar and your profile.
