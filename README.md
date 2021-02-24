@@ -71,7 +71,7 @@ Like this there is also a swipe feature in it where if you swipe left you can ab
 
 ## 0401
 <p>
- ![ googlemap ](googlemap.jpeg)
+ ![googlemap](googlemap.jpeg)
  Chosen App: google maps
  Despite of having Iphone I use google maps whenever I have to go at unknown places.
  I have go through this app so much deeply that's why I'm familiar with it. All activities can run by just opening navigation menu. The app displays the user's progress along the route and issues instructions for each turn. Infact there is no hierarchy used in navigation because it is freely handled through this menu.
