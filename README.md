@@ -70,8 +70,8 @@ The clicking buttons on the screen can performs many activities like you can add
 Like this there is also a swipe feature in it where if you swipe left you can able to see your joined servers. There are different types of servers like gaming, college study or sportsclub which show specific notification while swiping left. If you swife right it will show your friends who are online so you can communicate with them by video call or just call. </p>
 
 ## 0401
+![googlemap](googlemap.jpeg)
 <p>
- ![googlemap](googlemap.jpeg)
  Chosen App: google maps
  Despite of having Iphone I use google maps whenever I have to go at unknown places.
  I have go through this app so much deeply that's why I'm familiar with it. All activities can run by just opening navigation menu. The app displays the user's progress along the route and issues instructions for each turn. Infact there is no hierarchy used in navigation because it is freely handled through this menu.
@@ -113,5 +113,11 @@ Like this there is also a swipe feature in it where if you swipe left you can ab
 5) archieves
 6) games
 </p>
+
+## 0501
+![diagram](diagram.jpeg)
+<p>
+ Navigational Diagram of google map
+ </p>
 
 
