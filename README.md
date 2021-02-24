@@ -13,7 +13,7 @@
 <p> Well, usability is a measure of how well a specific user in a specific context can use a product or design to achieve a defined goal effectively, efficiently and satisfactorily.And intuitive design is used informally to describe designs that are easy to use. So, when a user is able to understand and use a design immediately—that is, without consciously thinking about how to do it—we describe the design as “intuitive”. There are some elements for usability are checkboxes, icons, notifications and more like this intuitive elements are feedback, efficiency, forgiveness and many more. </p>
 
 ## 0201
-![youtube](youtube.jpeg)
+
 <p>
  Chosen App:- Facebook
   It allows-
@@ -36,6 +36,7 @@
  </p>
  
  ## 0202
+ ![youtube](youtube.jpeg)
  <p>
   Here I'm gonna talk about youtube because I'm using it since 2012. I always like the algorithm of youtube because it shows what I need.
   The home page of the youtube shows the several things like search bar at the top right, notification bar just left to it and at the bottom side there are five distributted sections named home, explore, plus, subscritions and library.
