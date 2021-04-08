@@ -133,11 +133,19 @@ Like this there is also a swipe feature in it where if you swipe left you can ab
 Touch events are action up, action down, action cancel and action move.
 </p>
 
-## 0801
-<p></p>
-
 ## 0802
-<p></p>
+<p>
+ (google keep)
+ A to do list app helps you organize tasks and stay on top of your deadlines.
+ You can use it to manage everything from grocery lists to work-related tasks and more.
+ 1) Shared preferences: Files are a quick and convenient way to store unstructured data in Android. But there are other convenient, and more organized, ways to store small bits of data.
+ 2) Database- it(IndexedDB) is the standard datastore available to Chrome Apps. It also has Synchronised Storage that will manage offline and cloud access to your data storage.
+ 3) Shared storage- Well-designed to-do apps fit into your workflow so you can get back to what you're supposed to be doing.Keep is flexible enough to adapt to most workflows but not so complicated as to overwhelm. Overall, this is a great first to-do list app to try out.
+</p>
+
+## 0803
+<p>
+First of all it is very well scattered and informative but in my opinion it requires a bit of upgradation. I think they can scattered all the information in better way with some dropmenu. In fact, they can add proper information by using more pictures which can be more effective also they can add some alternative helping sites where user can find all the answers. Spacing is also lacking at some place.</p>
 
 ## 0901
 
