@@ -149,14 +149,9 @@ First of all it is very well scattered and informative but in my opinion it requ
 </p>
 
 ## 0901
-<p>
-| Attempt | #1  | #2  |
-| ------- | --- | --- |
-| Seconds | 301 | 283 |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
- </p>
- 
+| Header 1  | Another header here | This is a long header |
+| --------  | ------------------- | --------------------- |
+| Some data | Some more data      | data                  | 
+| data      | Some long data here | more data             | 
 ## 0902
 
