@@ -149,9 +149,11 @@ First of all it is very well scattered and informative but in my opinion it requ
 </p>
 
 ## 0901
-| Header 1  | Another header here | This is a long header |
-| --------  | ------------------- | --------------------- |
-| Some data | Some more data      | data                  | 
-| data      | Some long data here | more data             | 
+| Types of Animations  | Overview |
+| --------  | ------------------- |
+| Frame-by-Frame | Frame-by-frame animation is a technique that creates the illusion of movement by making incremental changes between every keyframe. It increases your file size rapidly because Animate has to store the contents for each keyframe.     |
+| Property Animation   | We can group animations into logical sets that play together or sequentially or after specified delays.Its an animation to change any object property over time, regardless of whether it draws to the screen or not.|
+| Tween Animation | It consists in moving or morphing a digital element between 2 keyframes. It allows us to mutate from one drawing object to another drawing object with different properties or at a different location on the stage which moves an object along a path, resize or change some basic properties |
+|Animator Sets| Animations can be set up to play together, in sequence, or after a specified delay.|
 ## 0902
 
