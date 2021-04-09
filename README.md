@@ -154,6 +154,7 @@ First of all it is very well scattered and informative but in my opinion it requ
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+ </p>
  
 ## 0902
 
