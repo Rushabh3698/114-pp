@@ -145,9 +145,15 @@ Touch events are action up, action down, action cancel and action move.
 
 ## 0803
 <p>
-First of all it is very well scattered and informative but in my opinion it requires a bit of upgradation. I think they can scattered all the information in better way with some dropmenu. In fact, they can add proper information by using more pictures which can be more effective also they can add some alternative helping sites where user can find all the answers. Spacing is also lacking at some place.</p>
+First of all it is very well scattered and informative but in my opinion it requires a bit of upgradation. I think they can scattered all the information in better way with some dropmenu. In fact, they can add proper information by using more pictures which can be more effective also they can add some alternative helping sites where user can find all the answers. Spacing is also lacking at some place.
+</p>
 
 ## 0901
-
+<p>
+ | Types of Animations  |  Overview |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+ 
 ## 0902
 
