@@ -150,7 +150,9 @@ First of all it is very well scattered and informative but in my opinion it requ
 
 ## 0901
 <p>
- | Types of Animations  |  Overview |
+| Attempt | #1  | #2  |
+| ------- | --- | --- |
+| Seconds | 301 | 283 |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
