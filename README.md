@@ -135,12 +135,15 @@ Touch events are action up, action down, action cancel and action move.
 
 ## 0802
 <p>
+ 
  (google keep)
  A to do list app helps you organize tasks and stay on top of your deadlines.
  You can use it to manage everything from grocery lists to work-related tasks and more.
+ 
  1) Shared preferences: Files are a quick and convenient way to store unstructured data in Android. But there are other convenient, and more organized, ways to store small bits of data.
  2) Database- it(IndexedDB) is the standard datastore available to Chrome Apps. It also has Synchronised Storage that will manage offline and cloud access to your data storage.
  3) Shared storage- Well-designed to-do apps fit into your workflow so you can get back to what you're supposed to be doing.Keep is flexible enough to adapt to most workflows but not so complicated as to overwhelm. Overall, this is a great first to-do list app to try out.
+ 
 </p>
 
 ## 0803
@@ -151,6 +154,7 @@ First of all it is very well scattered and informative but in my opinion it requ
 ## 0901
 <p>
 First of all, Room is a Database Object Mapping library that makes it easy to access database and annotations create methods to interact with the database and there are three major components in Room:
+ 
 1) Database class- It holds thehe database class and provides your app with instances of the DAOs associated with that database, the main access point for the that it serves as the connection to the persistent data.
 2) Data entities- It represent tables in your app's database.
 3) Data access objects- It provide methods that your app can use to query, update, insert, and delete data in the database.
@@ -160,19 +164,28 @@ First of all, Room is a Database Object Mapping library that makes it easy to ac
  
  ## 0902
  <p>
- A fragment is an independent Android component which can be used by an activity. It runs in the context of an activity, but has its own life cycle and typically its own user interface. It is also possible to define fragments without an user interface. We use fragments also to support different layout for landscape and portrait orientation on a smartphone. It simplifies that the reuse of components in different layouts and their logic, Android devices exists in a variety of screen sizes and densities.To increase reuse of fragments, they should not directly communicate with each other. Every communication of the fragments should be done via the host activity.The fragment requires that the activity, which uses it, must implement this interface. This way you avoid that the fragment has any knowledge about the activity which uses it. A fragment has its own life cycle. But it is always connected to the life cycle of the activity which uses the fragment.
+ A fragment is an independent Android component which can be used by an activity. It runs in the context of an activity, but has its own life cycle and typically its own user interface. It is also possible to define fragments without an user interface. We use fragments also to support different layout for landscape and portrait orientation on a smartphone.
+ 
+ It simplifies that the reuse of components in different layouts and their logic, Android devices exists in a variety of screen sizes and densities.To increase reuse of fragments, they should not directly communicate with each other. Every communication of the fragments should be done via the host activity.The fragment requires that the activity, which uses it, must implement this interface.
+ 
+ This way you avoid that the fragment has any knowledge about the activity which uses it. A fragment has its own life cycle. But it is always connected to the life cycle of the activity which uses the fragment.
  </p>
 
 ## 1002
 <p>
- Notifications are designed to notify the users about important updates. Sometimes your phone pings when it's not important, you’ll just end up with frustrated users. I think app can give users a choice of what notifications we want. Well sometimes it depends on messages how crucial they are. Notification must have a primary action. When the user clicks a notification, then it should perform something or take the user the place Notification’s title and description should be clear, concise and easily be able to convey the primary action of the notification. Some notification loses its value after a certain time. You should also give the flexibility to delete notifications. Though the notifications should be totally flexible and the user should have permission to clear, delete or mark all as read.
+ Notifications are designed to notify the users about important updates. Sometimes your phone pings when it's not important, you’ll just end up with frustrated users. I think app can give users a choice of what notifications we want. Well sometimes it depends on messages how crucial they are.
+ 
+ They must have a primary action. When the user clicks a notification, then it should perform something or take the user the place Notification’s title and description should be clear, concise and easily be able to convey the primary action of the notification. Some notification loses its value after a certain time. You should also give the flexibility to delete notifications. Though the notifications should be totally flexible and the user should have permission to clear, delete or mark all as read.
+ 
  The user needs to see the time and date both of the notification. Sometimes, the user doesn’t even care about the time only cares about the date and sometimes even cares about the seconds. There can be some crucial use-cases about it. Sometimes, some notifications need secondary actions, like `reply` or anything according to the app. These kind of information should be shared with notifications.
  </p>
  
  ## 1003
  </p>
 Push notification services can place deep links in push messages that direct users to a certain place in your app. Using deep links is a best way to engage users with your app, and with the use of a powerful call to action it causes users to perform the required action. Sometime it irritates when application send notification to users for rating they really need to stop this. Another thing lock Screen are displayed while your phone is locked and their difficulty level can be set by the user to hide information while locked or display them freely.
+
 The Anatomy of a Notification- the content inside of a notification takes only a smidge of your attention in order to assess a next step. The problem with notifications is that the cost to create them is close to zero as their creation cost approaches zero, notifications rapidly become spam-like as the noise of their quantity masks the quality of their signal.
+
 Behaviour- When a user clicks on a notification, the default behavior is for nothing to happen. It doesn't even close or remove the notification. By providing information at the moment the user is likely to need it, the app builds credibility, trust, and loyalty.Let users in on the value they’ll get out of your app before asking them to opt in to push notifications. This is especially relevant to your iOS users, who need to explicitly allow push notifications before receiving them.
 </p>
 
@@ -185,6 +198,8 @@ Behaviour- When a user clicks on a notification, the default behavior is for not
 |Animator Sets| Animations can be set up to play together, in sequence, or after a specified delay.|
 ## 1102
 <p>
- By means of motion, an app gives feedback to users in response to their actions so they know what’s happening. Also, animations can display the hierarchy of pages and screens and draw attention to essential elements and features and cloning is a motion behavior wherein one UI element splits off into others. It’s a clever way to highlight important information or interaction options. Most mobile apps have complex structures, and it’s the designer’s task to simplify navigation as much as possible. Animations can be extremely helpful for accomplishing this task. If animation shows where an element is hiding, a user will be able to easily find it. The relationship between motion design and the UX of digital products is rapidly maturing.
+ By means of motion, an app gives feedback to users in response to their actions so they know what’s happening. Also, animations can display the hierarchy of pages and screens and draw attention to essential elements and features and cloning is a motion behavior wherein one UI element splits off into others.
+ 
+ It’s a clever way to highlight important information or interaction options. Most mobile apps have complex structures, and it’s the designer’s task to simplify navigation as much as possible. Animations can be extremely helpful for accomplishing this task. If animation shows where an element is hiding, a user will be able to easily find it. The relationship between motion design and the UX of digital products is rapidly maturing.
 </p>
 
