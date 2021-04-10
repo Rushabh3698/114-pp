@@ -149,13 +149,28 @@ First of all it is very well scattered and informative but in my opinion it requ
 </p>
 
 ## 0901
+<p>
+First of all, Room is a Database Object Mapping library that makes it easy to access database and annotations create methods to interact with the database and there are three major components in Room:
+1) Database class- It holds thehe database class and provides your app with instances of the DAOs associated with that database, the main access point for the that it serves as the connection to the persistent data.
+2) Data entities- It represent tables in your app's database.
+3) Data access objects- It provide methods that your app can use to query, update, insert, and delete data in the database.
+
+ The app can also use the defined data entities to update rows from the corresponding tables, or to create new rows for insertion.Within the data access objects interface, you can declare the methods required to access the entity data within your tables using SQL logic.
+ </p>
+ 
+ ## 0902
+ <p>
+ A fragment is an independent Android component which can be used by an activity. It runs in the context of an activity, but has its own life cycle and typically its own user interface. It is also possible to define fragments without an user interface. We use fragments also to support different layout for landscape and portrait orientation on a smartphone. It simplifies that the reuse of components in different layouts and their logic, Android devices exists in a variety of screen sizes and densities.To increase reuse of fragments, they should not directly communicate with each other. Every communication of the fragments should be done via the host activity.The fragment requires that the activity, which uses it, must implement this interface. This way you avoid that the fragment has any knowledge about the activity which uses it. A fragment has its own life cycle. But it is always connected to the life cycle of the activity which uses the fragment.
+ </p>
+
+## 1101
 | Types of Animations  | Overview |
 | --------  | ------------------- |
 | Frame-by-Frame | Frame-by-frame animation is a technique that creates the illusion of movement by making incremental changes between every keyframe. It increases your file size rapidly because Animate has to store the contents for each keyframe.     |
 | Property Animation   | We can group animations into logical sets that play together or sequentially or after specified delays.Its an animation to change any object property over time, regardless of whether it draws to the screen or not.|
 | Tween Animation | It consists in moving or morphing a digital element between 2 keyframes. It allows us to mutate from one drawing object to another drawing object with different properties or at a different location on the stage which moves an object along a path, resize or change some basic properties. |
 |Animator Sets| Animations can be set up to play together, in sequence, or after a specified delay.|
-## 0902
+## 1102
 <p>
  By means of motion, an app gives feedback to users in response to their actions so they know what’s happening. Also, animations can display the hierarchy of pages and screens and draw attention to essential elements and features and cloning is a motion behavior wherein one UI element splits off into others. It’s a clever way to highlight important information or interaction options. Most mobile apps have complex structures, and it’s the designer’s task to simplify navigation as much as possible. Animations can be extremely helpful for accomplishing this task. If animation shows where an element is hiding, a user will be able to easily find it. The relationship between motion design and the UX of digital products is rapidly maturing.
 </p>
