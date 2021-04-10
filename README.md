@@ -163,6 +163,19 @@ First of all, Room is a Database Object Mapping library that makes it easy to ac
  A fragment is an independent Android component which can be used by an activity. It runs in the context of an activity, but has its own life cycle and typically its own user interface. It is also possible to define fragments without an user interface. We use fragments also to support different layout for landscape and portrait orientation on a smartphone. It simplifies that the reuse of components in different layouts and their logic, Android devices exists in a variety of screen sizes and densities.To increase reuse of fragments, they should not directly communicate with each other. Every communication of the fragments should be done via the host activity.The fragment requires that the activity, which uses it, must implement this interface. This way you avoid that the fragment has any knowledge about the activity which uses it. A fragment has its own life cycle. But it is always connected to the life cycle of the activity which uses the fragment.
  </p>
 
+## 1002
+<p>
+ Notifications are designed to notify the users about important updates. Sometimes your phone pings when it's not important, you’ll just end up with frustrated users. I think app can give users a choice of what notifications we want. Well sometimes it depends on messages how crucial they are. Notification must have a primary action. When the user clicks a notification, then it should perform something or take the user the place Notification’s title and description should be clear, concise and easily be able to convey the primary action of the notification. Some notification loses its value after a certain time. You should also give the flexibility to delete notifications. Though the notifications should be totally flexible and the user should have permission to clear, delete or mark all as read.
+ The user needs to see the time and date both of the notification. Sometimes, the user doesn’t even care about the time only cares about the date and sometimes even cares about the seconds. There can be some crucial use-cases about it. Sometimes, some notifications need secondary actions, like `reply` or anything according to the app. These kind of information should be shared with notifications.
+ </p>
+ 
+ ## 1003
+ </p>
+Push notification services can place deep links in push messages that direct users to a certain place in your app. Using deep links is a best way to engage users with your app, and with the use of a powerful call to action it causes users to perform the required action. Sometime it irritates when application send notification to users for rating they really need to stop this. Another thing lock Screen are displayed while your phone is locked and their difficulty level can be set by the user to hide information while locked or display them freely.
+The Anatomy of a Notification- the content inside of a notification takes only a smidge of your attention in order to assess a next step. The problem with notifications is that the cost to create them is close to zero as their creation cost approaches zero, notifications rapidly become spam-like as the noise of their quantity masks the quality of their signal.
+Behaviour- When a user clicks on a notification, the default behavior is for nothing to happen. It doesn't even close or remove the notification. By providing information at the moment the user is likely to need it, the app builds credibility, trust, and loyalty.Let users in on the value they’ll get out of your app before asking them to opt in to push notifications. This is especially relevant to your iOS users, who need to explicitly allow push notifications before receiving them.
+</p>
+
 ## 1101
 | Types of Animations  | Overview |
 | --------  | ------------------- |
